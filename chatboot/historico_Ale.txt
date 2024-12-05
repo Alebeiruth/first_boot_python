@@ -1,0 +1,9 @@
+Histórico de conversa com Ale:
+Você: Onde está localizado a Fiep?
+Chatbot: Av. Cândido de Abreu, 200 - Centro Cívico, Curitiba/PR
+Você: Como faço para entrar em contato com a Fiep?
+Chatbot: Você pode entrar em contato conosco por meio do formulário de contato disponível no site, pelo telefone (41) 3271 9000. Estamos à disposição para responder suas dúvidas.
+Você: Como a Fiep apoia as industrias no comércio exterior?
+Chatbot: A Fiep apoia as indústrias no comércio exterior oferecendo orientação e consultoria para identificar mercados potenciais, analisar barreiras comerciais e desenvolver estratégias de internacionalização. Além disso, oferece capacitação por meio de cursos e treinamentos sobre exportação, importação, logística internacional e legislação aduaneira. A Fiep também organiza e apoia a participação em feiras internacionais e missões empresariais, promovendo produtos paranaenses no exterior. Outro suporte importante é a emissão de certificados de origem e outros documentos necessários para operações de exportação e importação.
+Você: Encerrar
+Chatbot: Chat encerrado.
